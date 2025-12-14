@@ -1,0 +1,7 @@
+{
+  "name": "A-R-I-H-A-N-T-E",
+  "description": "A practical, no-nonsense AI business assistant for shop owners.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
